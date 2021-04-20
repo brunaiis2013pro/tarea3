@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dupla
+comment1.params=x1\ x2
+comment1.target=Dupla(double,\ double)
+comment2.params=
+comment2.target=double\ getX1()
+comment3.params=
+comment3.target=double\ getX2()
+comment4.params=x1
+comment4.target=void\ setX1(double)
+comment5.params=x2
+comment5.target=void\ setX2(double)
+numComments=6
